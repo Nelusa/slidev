@@ -23,7 +23,7 @@ drawings:
 css: unocss
 ---
 
-# Welcome to Slidev
+# Nástroje pro technické prezentace
 
 Presentation slides for developers
 
